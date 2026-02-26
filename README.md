@@ -1,16 +1,30 @@
 # Articulation Skill
 
+## 为什么做这个 Skill
+
+这是我做的第一个 skill。
+
+起因很简单：我见过太多 superior，在发现下属的认知需要升级时，说不清楚问题到底出在哪，更给不出一条清晰的路径。不是他们不懂，是他们没法把"懂"变成对方能接收的语言。
+
+大多数人以为 AI 解决了写作问题——你说几句，它帮你生成一整篇。但这恰恰是最大的误解。**真正的问题从来不是"写不出来"，而是：写出来的东西，读完之后，对方不会改变任何想法，不会采取任何行动。** AI 帮你打了字，但没帮你说服任何人。
+
+"写作"不等于"把字打出来"。写作是改变读者脑中的认知结构。
+
+面对不同的人，你要做的事完全不同——是翻转他们的理解？补上他们不知道的一块？还是把他们已经知道的东西打得更深？你对着一个初学者和一个比你资深的上级，不可能用同一种方式写。
+
+这个 skill 做的事情是：**先问清楚你要写给谁、你想对他们的认知做什么，然后用一套结构化的技巧帮你真正改变读者的想法。** 向下翻转下属的认知盲区，向上给上级递一块他缺的拼图——都能用。
+
+**Author:** Liduo from Eazillion Global Ltd. (partner company of moody and Halliday)
+
 ## Repository Overview
 
 This repository contains the **Articulation Skill** — a persuasive writing system designed as an AI skill definition. The skill teaches a structured, audience-first workflow for creating content that persuades, reframes, and educates.
-
-**Author:** Liduo from Eazillion Global Ltd. (partner company of moody and Halliday)
 
 ## Repository Structure
 
 ```
 articulationskill/
-├── CLAUDE.md            # This file — guidance for AI assistants
+├── README.md            # This file — repo overview and guidance
 └── articulation.md      # The complete articulation skill definition
 ```
 
