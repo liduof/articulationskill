@@ -1,4 +1,4 @@
-# CLAUDE.md — Articulation Skill Repository
+# Articulation Skill Repository
 
 ## Repository Overview
 
