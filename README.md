@@ -10,7 +10,7 @@ This repository contains the **Articulation Skill** — a persuasive writing sys
 
 ```
 articulationskill/
-├── CLAUDE.md            # This file — guidance for AI assistants
+├── README.md            # This file — guidance for AI assistants
 └── articulation.md      # The complete articulation skill definition
 ```
 
